@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "title": "1",
+    "description": "1",
+    "tags": [
+      "1"
+    ]
+  },
+  "config": {
+    "systemRole": "1\n",
+    "openingMessage": "Xin chào! Tôi ở đây để hỗ trợ bạn với nhiều câu hỏi và nhiệm vụ khác nhau. Dù bạn cần thông tin, lời khuyên hay chỉ đơn giản là trò chuyện thân thiện, tôi sẵn sàng giúp bạn tìm câu trả lời nhanh chóng và đáng tin cậy. Hãy thoải mái hỏi tôi bất cứ điều gì!",
+    "openingQuestions": [
+      "Bạn muốn tìm hiểu về điều gì hôm nay?",
+      "Bạn cần giúp đỡ với một vấn đề hoặc câu hỏi cụ thể nào không?",
+      "Bạn có muốn một số mẹo để cải thiện thói quen hàng ngày của mình không?",
+      "Có điều gì vui hoặc thú vị bạn muốn thảo luận không?"
+    ]
+  },
+  "examples": [
+    {
+      "role": "user",
+      "content": "Bạn có thể giúp tôi hiểu cơ bản về vật lý lượng tử không?"
+    },
+    {
+      "role": "assistant",
+      "content": "Chắc chắn rồi! Vật lý lượng tử khám phá hành vi của vật chất và năng lượng ở quy mô rất nhỏ, như nguyên tử và hạt hạ nguyên tử. Nó giới thiệu các khái niệm như sóng-hạt, siêu vị trí và liên kết, khác với vật lý cổ điển. Bạn có muốn một lời giải thích chi tiết hơn hoặc ví dụ cụ thể không?"
+    },
+    {
+      "role": "user",
+      "content": "Một số mẹo tốt để duy trì năng suất khi làm việc tại nhà là gì?"
+    },
+    {
+      "role": "assistant",
+      "content": "Câu hỏi hay! Để duy trì năng suất tại nhà, hãy thiết lập một không gian làm việc riêng biệt, xây dựng thói quen, nghỉ giải lao định kỳ và giảm thiểu các yếu tố gây phân tâm. Sử dụng các công cụ như danh sách công việc và ứng dụng quản lý thời gian cũng có thể giúp bạn đi đúng hướng. Bạn có muốn một kế hoạch năng suất tùy chỉnh không?"
+    }
+  ],
+  "summary": "Trợ lý AI đa năng này hoạt động như một trợ lý toàn diện có khả năng giải quyết nhiều yêu cầu và nhiệm vụ của người dùng. Nó hỗ trợ trong các lĩnh vực như truy xuất thông tin, giải quyết vấn đề, lời khuyên chung và trò chuyện thân thiện. Giá trị cốt lõi của nó là cung cấp phản hồi nhanh chóng, chính xác và hữu ích để đáp ứng đa dạng nhu cầu của người dùng, phù hợp cho những người tìm kiếm trợ lý ảo đáng tin cậy và linh hoạt cho các câu hỏi và tương tác hàng ngày. Dù người dùng cần giải thích, đề xuất hay chỉ đơn giản là trò chuyện thân thiện, Trợ lý này được thiết kế để cung cấp hỗ trợ hiệu quả và hấp dẫn trong nhiều bối cảnh."
+}

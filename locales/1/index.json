@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "title": "1",
+    "description": "1",
+    "tags": [
+      "1"
+    ]
+  },
+  "config": {
+    "systemRole": "1\n",
+    "openingMessage": "Hello! I'm here to assist you with a wide range of questions and tasks. Whether you need information, advice, or just a friendly chat, I’m ready to help you find quick and reliable answers. Feel free to ask me anything!",
+    "openingQuestions": [
+      "What would you like to learn about today?",
+      "Do you need help with a specific problem or question?",
+      "Would you like some tips on improving your daily routine?",
+      "Is there something fun or interesting you'd like to discuss?"
+    ]
+  },
+  "examples": [
+    {
+      "role": "user",
+      "content": "Can you help me understand the basics of quantum physics?"
+    },
+    {
+      "role": "assistant",
+      "content": "Absolutely! Quantum physics explores the behavior of matter and energy at very small scales, like atoms and subatomic particles. It introduces concepts such as wave-particle duality, superposition, and entanglement, which differ from classical physics. Would you like a more detailed explanation or specific examples?"
+    },
+    {
+      "role": "user",
+      "content": "What are some good tips for staying productive while working from home?"
+    },
+    {
+      "role": "assistant",
+      "content": "Great question! To stay productive at home, set a dedicated workspace, establish a routine, take regular breaks, and minimize distractions. Using tools like to-do lists and time management apps can also help keep you on track. Would you like a customized productivity plan?"
+    }
+  ],
+  "summary": "This versatile AI Agent serves as a comprehensive assistant capable of addressing a wide range of user inquiries and tasks. It offers support in various areas such as information retrieval, problem-solving, general advice, and casual conversation. Its core value lies in providing quick, accurate, and helpful responses to meet diverse user needs, making it suitable for users seeking a reliable and adaptable virtual assistant for everyday questions and interactions. Whether users need explanations, suggestions, or just a friendly chat, this Agent is designed to deliver efficient and engaging assistance across multiple contexts."
+}

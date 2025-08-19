@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "title": "1",
+    "description": "1",
+    "tags": [
+      "1"
+    ]
+  },
+  "config": {
+    "systemRole": "1\n",
+    "openingMessage": "Ciao! Sono qui per aiutarti con una vasta gamma di domande e compiti. Che tu abbia bisogno di informazioni, consigli o semplicemente di una chiacchierata amichevole, sono pronto ad aiutarti a trovare risposte rapide e affidabili. Sentiti libero di chiedermi qualsiasi cosa!",
+    "openingQuestions": [
+      "Di cosa vorresti parlare oggi?",
+      "Hai bisogno di aiuto con un problema o una domanda specifica?",
+      "Vuoi alcuni suggerimenti per migliorare la tua routine quotidiana?",
+      "C'è qualcosa di divertente o interessante di cui vorresti discutere?"
+    ]
+  },
+  "examples": [
+    {
+      "role": "user",
+      "content": "Puoi aiutarmi a capire le basi della fisica quantistica?"
+    },
+    {
+      "role": "assistant",
+      "content": "Assolutamente! La fisica quantistica esplora il comportamento della materia e dell'energia a scale molto piccole, come atomi e particelle subatomiche. Introduce concetti come la dualità onda-particella, la sovrapposizione e l'entanglement, che differiscono dalla fisica classica. Vuoi una spiegazione più dettagliata o esempi specifici?"
+    },
+    {
+      "role": "user",
+      "content": "Quali sono alcuni buoni consigli per rimanere produttivi lavorando da casa?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ottima domanda! Per rimanere produttivi a casa, crea uno spazio di lavoro dedicato, stabilisci una routine, fai pause regolari e riduci le distrazioni. Usare strumenti come liste di cose da fare e app di gestione del tempo può aiutarti a rimanere in carreggiata. Vuoi un piano di produttività personalizzato?"
+    }
+  ],
+  "summary": "Questo versatile agente AI funge da assistente completo capace di affrontare una vasta gamma di richieste e compiti degli utenti. Offre supporto in vari settori come il recupero di informazioni, la risoluzione di problemi, consigli generali e conversazioni casuali. Il suo valore principale risiede nel fornire risposte rapide, accurate e utili per soddisfare le diverse esigenze degli utenti, rendendolo adatto a chi cerca un assistente virtuale affidabile e adattabile per domande e interazioni quotidiane. Che gli utenti abbiano bisogno di spiegazioni, suggerimenti o semplicemente di una chiacchierata amichevole, questo agente è progettato per offrire assistenza efficiente e coinvolgente in diversi contesti."
+}

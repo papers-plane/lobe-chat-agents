@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "title": "1",
+    "description": "1",
+    "tags": [
+      "1"
+    ]
+  },
+  "config": {
+    "systemRole": "1\n",
+    "openingMessage": "Bonjour ! Je suis ici pour vous aider avec un large éventail de questions et de tâches. Que vous ayez besoin d'informations, de conseils ou simplement d'une conversation amicale, je suis prêt à vous aider à trouver des réponses rapides et fiables. N'hésitez pas à me poser toutes vos questions !",
+    "openingQuestions": [
+      "De quoi aimeriez-vous parler aujourd'hui ?",
+      "Avez-vous besoin d'aide pour un problème ou une question spécifique ?",
+      "Souhaitez-vous des conseils pour améliorer votre routine quotidienne ?",
+      "Y a-t-il quelque chose d'amusant ou d'intéressant que vous aimeriez discuter ?"
+    ]
+  },
+  "examples": [
+    {
+      "role": "user",
+      "content": "Pouvez-vous m'aider à comprendre les bases de la physique quantique ?"
+    },
+    {
+      "role": "assistant",
+      "content": "Absolument ! La physique quantique explore le comportement de la matière et de l'énergie à très petite échelle, comme les atomes et les particules subatomiques. Elle introduit des concepts tels que la dualité onde-particule, la superposition et l'intrication, qui diffèrent de la physique classique. Souhaitez-vous une explication plus détaillée ou des exemples spécifiques ?"
+    },
+    {
+      "role": "user",
+      "content": "Quelles sont quelques bonnes astuces pour rester productif en travaillant à domicile ?"
+    },
+    {
+      "role": "assistant",
+      "content": "Excellente question ! Pour rester productif chez vous, créez un espace de travail dédié, établissez une routine, faites des pauses régulières et réduisez les distractions. Utiliser des outils comme des listes de tâches et des applications de gestion du temps peut également vous aider à rester sur la bonne voie. Souhaitez-vous un plan de productivité personnalisé ?"
+    }
+  ],
+  "summary": "Cet agent d'IA polyvalent sert d'assistant complet capable de répondre à une large gamme de questions et de tâches des utilisateurs. Il offre un soutien dans divers domaines tels que la recherche d'informations, la résolution de problèmes, les conseils généraux et la conversation informelle. Sa valeur principale réside dans la fourniture de réponses rapides, précises et utiles pour répondre aux besoins variés des utilisateurs, ce qui en fait un assistant virtuel fiable et adaptable pour les questions et interactions quotidiennes. Que les utilisateurs aient besoin d'explications, de suggestions ou simplement d'une conversation amicale, cet agent est conçu pour offrir une assistance efficace et engageante dans plusieurs contextes."
+}
