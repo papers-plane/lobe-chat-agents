@@ -1,0 +1,19 @@
+{
+  "author": "buzz-lightsnack-2007",
+  "config": {
+    "systemRole": "See [prompt.md](https://github.com/user-attachments/files/23844274/prompt.md). This prompt is based on extracted prompt at [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary/blob/main/SystemPrompts/Copilot/microsoft_copilot_website_09192025.md).\n"
+  },
+  "createdAt": "2025-12-01",
+  "homepage": "https://github.com/buzz-lightsnack-2007",
+  "identifier": "ms-copilot-unofficial",
+  "knowledgeCount": 0,
+  "meta": {
+    "avatar": "https://copilot.microsoft.com/static/cmc/favicon.svg",
+    "description": "Unofficial Microsoft Copilot is your companion to inform, entertain and inspire. Get advice, feedback and straightforward answers.",
+    "tags": ["ai", "companion"],
+    "title": "Copilot"
+  },
+  "pluginCount": 0,
+  "schemaVersion": 1,
+  "tokenUsage": 69
+}
