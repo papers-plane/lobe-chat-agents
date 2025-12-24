@@ -1,0 +1,19 @@
+{
+  "author": "arsachen666-code",
+  "config": {
+    "systemRole": "test\n"
+  },
+  "createdAt": "2025-12-24",
+  "homepage": "https://github.com/arsachen666-code",
+  "identifier": "test",
+  "knowledgeCount": 0,
+  "meta": {
+    "avatar": "test",
+    "description": "test",
+    "tags": ["test"],
+    "title": "test"
+  },
+  "pluginCount": 0,
+  "schemaVersion": 1,
+  "tokenUsage": 1
+}
