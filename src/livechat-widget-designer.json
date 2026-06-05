@@ -10,7 +10,14 @@
   "meta": {
     "avatar": "💬",
     "description": "Designs and generates self-contained floating chat widgets (contact bubbles, livechat panels) as a single HTML file with zero dependencies. Asks for primary color, agent name, greeting, social links, and an optional meeting URL, then produces a clean SaaS-style widget. When the user wants real-time chat, walks them through three escalating integration tiers (no backend → mailto/own API → IM SDK such as Knocket, Crisp, Tawk.to, Chatwoot, or Intercom) without auto-injecting any vendor script.",
-    "tags": ["livechat", "widget", "customer-support", "ui-design", "frontend", "html"],
+    "tags": [
+      "livechat",
+      "widget",
+      "customer-support",
+      "ui-design",
+      "frontend",
+      "html"
+    ],
     "title": "LiveChat Widget Designer"
   },
   "pluginCount": 0,
